@@ -1,18 +1,12 @@
-\# ds-git-day24
-
-
+# ds-git-day24
 
 Teaching repository
 
-
-
-\## Setup
-
-
+## Setup
 
 ```bash
 
-git clone https://github.com/kellycheung5-collab/ds201\_day24
+git clone https://github.com/kellycheung5-collab/ds201_day24
 
 cd ds-git-day24
 
